@@ -1,0 +1,12 @@
+int main (){
+	int a=10;
+	while (a = 6){
+		if(a < 8){
+		String D="Bien";
+		}else{
+		String A="Excelente";
+		}
+		
+	}
+
+}
